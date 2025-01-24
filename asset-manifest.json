@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/hookx/static/css/main.7acaea2f.css",
-    "main.js": "/hookx/static/js/main.121d306c.js",
+    "main.js": "/hookx/static/js/main.ebed7bae.js",
     "index.html": "/hookx/index.html",
     "main.7acaea2f.css.map": "/hookx/static/css/main.7acaea2f.css.map",
-    "main.121d306c.js.map": "/hookx/static/js/main.121d306c.js.map"
+    "main.ebed7bae.js.map": "/hookx/static/js/main.ebed7bae.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.121d306c.js"
+    "static/js/main.ebed7bae.js"
   ]
 }
